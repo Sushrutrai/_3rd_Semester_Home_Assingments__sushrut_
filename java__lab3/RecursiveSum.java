@@ -1,5 +1,5 @@
 package java__lab3;
-//7.Write a program that calculates the sum of the first 10 numbers using recursion. 
+
 public class RecursiveSum {
     int sum(int n){
         if (n==0) {
