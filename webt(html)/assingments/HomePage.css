@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .main_container,html,body{
     width: 100vw;
     height: 100vh;
@@ -53,60 +52,4 @@
 }
 footer{
     text-align: center;
-=======
-.main_container,html,body{
-    width: 100vw;
-    height: 100vh;
-    padding: 0px;
-    margin:0px;
-}
-.internal_container{
-    padding-top: 10px;
-}
-.header{
-    width: 100vw;
-    height: 10vh;
-    display: flex;
-    background-color:blue;
-    font-size:x-large;
-}
-.menu ul{
-    display: flex;
-}
-.menu ul li{ 
-    padding: 5px 50px;
-    list-style-type:none;
-}
-.menu ul li a{
-    text-decoration: none;
-}
-.menu{
-    padding: 5px 0px;
-    width:100vw;
-    height: 5vh;
-    background-color: grey;
-}
-.vertical{
-    float: left;
-    width: 15vw;
-    height:80vh;
-    background-color:blue;
-}
-.main{
-    float: right;
-    width: 85vw;
-    height: 80vh;
-    padding: 0px;
-    margin: 0px;
-}
-.main img {
-    height:30vh;
-    width: 85vw;
-}
-.frm{
-    float: right;
-}
-footer{
-    text-align: center;
->>>>>>> 79eedcdaf8035c8fb55deef46abdc7cdbd8a02de
 }

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body{
     display: flex;
     justify-content: center;
@@ -30,37 +29,4 @@ body{
 }
 @keyframes rotate {
     to{transform: rotate(1turn);}
-=======
-body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100dvh;
-}
-.loading{
-    font-weight: bold;
-    font-size: 1.2em;
-    text-align: center;
-    min-width: 50%;
-    line-height: 1.4;
-}
-.loading__author{
-    display: block;
-    font: normal;
-    color: rgba(189,189,189, 1);
-    margin: 0.6em 0 2em 0;
-}
-.loading__animate{
-    width: 35px;
-    height: 35px;
-    display: inline-block;
-    border: 5px solid rgba(189,189,189, .25);
-    border-left-color: rgba(99, 104, 194,1);
-    border-top-color: rgba(99, 104, 194,1);
-    border-radius: 100%;
-    animation: rotate 750ms infinite linear;
-}
-@keyframes rotate {
-    to{transform: rotate(1turn);}
->>>>>>> 79eedcdaf8035c8fb55deef46abdc7cdbd8a02de
 }
