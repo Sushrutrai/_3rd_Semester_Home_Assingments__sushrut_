@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 html,body{
     padding: 0px;
     margin:0px;
@@ -64,4 +65,72 @@ html,body{
     height: auto;
     text-align: center;
     background-color: rgb(90, 90, 90);
+=======
+html,body{
+    padding: 0px;
+    margin:0px;
+    width:100dvw;
+    height: 100dvh;
+}
+.logo{
+    width: 100vw;
+    height: 75px;
+    background-color: black;
+}
+.logo img{
+    width: 200px;
+    height: auto;
+}
+.navigation{
+    width: 100dvw;
+    height: 40px;
+    background-color:grey;
+    padding: 5px 0px;
+   
+}
+.navigation ul {
+    display: flex;
+    list-style: none;
+}
+.navigation ul li a{
+    text-decoration: none;
+    padding: 5px 30px;
+}
+.banner{
+    width: 100dvw;
+    height: 55px;
+    text-align: center;
+    background-color: black;
+    color: azure;
+    padding: 5px 0px;    
+}
+.sidebar{
+    width: 10dvw;
+    height:80dvh;
+    text-align: left;
+    float: left;
+    background-color: grey;
+}
+.sidebar ul {
+    list-style: none;
+}
+.sidebar ul li a{
+    text-decoration: none;
+    border-bottom: 1px solid black;
+}
+.body{
+    width: 90dvw;
+    height: 80dvh;
+    color: rgb(238, 238, 238);
+    background-image: url("D:/3rdsem(sushrut)/webt(html)/images/network-technology-background-futuristic-tech-black-background-low-poly-green-wave-3d-wire-illustration-ai-generated-photo.jpg");
+    background-size: contain;
+    float: right;
+    font-size: 1.5em;
+}
+.footer{
+    width: auto;
+    height: auto;
+    text-align: center;
+    background-color: rgb(90, 90, 90);
+>>>>>>> 79eedcdaf8035c8fb55deef46abdc7cdbd8a02de
 }

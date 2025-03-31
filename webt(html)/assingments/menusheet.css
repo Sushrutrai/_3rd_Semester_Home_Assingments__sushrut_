@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .main {
     display: flex;
 }
@@ -26,4 +27,34 @@
 .content a{
     display: block;
     padding: 10px;
+=======
+.main {
+    display: flex;
+}
+.main  li {
+    list-style: none;
+    padding: 5px 25px;
+    border-right: 2px solid black;
+    position:relative;
+    margin-right: 20px;
+    
+}
+.main li a{
+    text-decoration: none;
+}
+.content{
+    display:none;
+    position:absolute;
+    top:100%;
+}
+.main li:hover .content{
+    display: block;
+}
+.main a:hover{
+    background-color: #555;
+}
+.content a{
+    display: block;
+    padding: 10px;
+>>>>>>> 79eedcdaf8035c8fb55deef46abdc7cdbd8a02de
 }

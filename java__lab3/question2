@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Lab 3
 *1.	Create a Box class with width, height and depth instance variables. Use the constructor to initialize the instance variables. Write a volume() method that returns the volume of the box. Create two objects of box and display their volumes.
 *2.	Write a program to demonstrate this keyword.
@@ -12,3 +13,19 @@ Lab 3
 *11. Write a program to demonstrate member inner class.*
 *12. Write a program to demonstrate method-local inner class.
 *13. Write a program to demonstrate anonymous inner class.
+=======
+Lab 3
+*1.	Create a Box class with width, height and depth instance variables. Use the constructor to initialize the instance variables. Write a volume() method that returns the volume of the box. Create two objects of box and display their volumes.
+*2.	Write a program to demonstrate this keyword.
+*3.	Write a program called Calculate with various forms of sum method. Demonstrate the concept of method overloading.
+*4.  Create a Student class with id, name, and age instance variables. Use the constructor overloading concept to initialize the instance variables. Write a display method to display the details of a student. 
+*5.	Write a program to demonstrate copy constructor.
+*6.	Write a program to find the factorial of a given number using recursion.
+*7.  Write a program that calculates the sum of the first 10 numbers using recursion. 
+*8.  Write a program to calculate the nth number in the Fibonacci sequence using recursion.
+*9.	Write a program to demonstrate static keyword in the instance variable, method and block.
+*10. Write a program to demonstrate static nested class.
+*11. Write a program to demonstrate member inner class.*
+*12. Write a program to demonstrate method-local inner class.
+*13. Write a program to demonstrate anonymous inner class.
+>>>>>>> 79eedcdaf8035c8fb55deef46abdc7cdbd8a02de

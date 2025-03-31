@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package java__lab2;
 //14.	Write a program that prints the value from 1 to 10 skipping 4.
 public class Skip {
@@ -9,3 +10,16 @@ public class Skip {
         }
     }
 }
+=======
+package java__lab2;
+//14.	Write a program that prints the value from 1 to 10 skipping 4.
+public class Skip {
+    public static void main(String[] args){
+        for (int i = 1; i <= 10; i++) {
+            if (i!=4) {
+            System.out.println(i+ " is not 4");
+            }
+        }
+    }
+}
+>>>>>>> 79eedcdaf8035c8fb55deef46abdc7cdbd8a02de
