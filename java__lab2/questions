@@ -1,0 +1,15 @@
+Lab 2
+*1.	Write a program to demonstrate all arithmetic operators and relational operators. 
+*2.	Write a program to demonstrate all logical and assignment operators.
+*3.	Write a program to demonstrate all bitwise and shift operators.
+*4.	Write a program to demonstrate all conditional, auto-increment and auto-decrement operators.
+5.	Write a program to demonstrate two-dimensional array.	
+*6.	Write a program to check whether the user given number is even or odd.
+*7.	Write a program to check eligibility for Bungee Jumping at Bhotekoshi on the basis of the user's weight and age using 'nested if'.
+*8.	Write a program to check whether the user given number is positive, negative or zero.
+*9.	Write a program to demonstrate switch case.	
+*10.	Write a menu-driven program to calculate arithmetic operation like addition, subtraction, division and multiplication.
+*11.	Write a program using enhanced for loop to display and sum the values of the array.
+*12.	Write a program to demonstrate two dimensional array using enhanced for loop.
+*13.	Write a program that iterates for 50 times but terminates the loop in the 5th iteration.
+*14.	Write a program that prints the value from 1 to 10 skipping 4.
