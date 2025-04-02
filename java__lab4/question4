@@ -1,12 +1,12 @@
 Lab 4
-1.	Write a program to demonstrate the use of super keyword to access instance variable and 
+//1.	Write a program to demonstrate the use of super keyword to access instance variable and 
     method of super class in the child class.
-2.	Create a class Teacher which inherits all the properties of Staff. 
+//2.	Create a class Teacher which inherits all the properties of Staff. 
     To initialize all the property, use parent class constructor from child class.
-3.	Create a parent class called Staff with instance variables id, name and address. 
+//3.	Create a parent class called Staff with instance variables id, name and address. 
     Create a class called Teacher that inherits the Staff class. Demonstrate the concept of method overriding.
-4.	Write an abstract class named Shape with draw() abstract method. 
+//4.	Write an abstract class named Shape with draw() abstract method. 
     Create Rectangle and Square class that uses the abstract class Shape. 
-5.	Write a program to demonstrate package and sub-packages.
-6.	Write an interface called Area with methods circle() and square(). 
+//5.	Write a program to demonstrate package and sub-packages.
+//6.	Write an interface called Area with methods circle() and square(). 
     Write a class called ShapeArea that implements the interface Area and display the area of circle and square.

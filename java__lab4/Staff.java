@@ -1,4 +1,4 @@
-package oop_in_java;
+package java__lab4;
 class Staff{
         int id;
         String name;

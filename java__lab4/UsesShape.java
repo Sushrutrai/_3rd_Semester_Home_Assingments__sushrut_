@@ -6,7 +6,7 @@ abstract class Shape {
 }
 class Rectangle extends Shape{
     public void draw(){
-        System.out.println("Drawing Retangle....");
+        System.out.println("Drawing Rectangle....");
     }
 }
 class Square extends Shape{
@@ -16,8 +16,9 @@ class Square extends Shape{
 }
 public class UsesShape{
     public static void main(String [] args){
-        UsesShape obj=new UsesShape();
-        Shape o=new Rectangle();
-        o.draw();
+        Shape square=new Square();
+        Shape rectangle=new Rectangle();
+        rectangle.draw();
+        square.draw();
     }
 }

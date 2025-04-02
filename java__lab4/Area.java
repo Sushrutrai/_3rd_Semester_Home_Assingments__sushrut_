@@ -1,6 +1,6 @@
 package java__lab4;
 //6.	Write an interface called Area with methods circle() and square(). 
-//Write a class called ShapeArea that implements the interface Area and display the area of circle and square.
+//xWrite a class called ShapeArea that implements the interface Area and display the area of circle and square.
 public interface Area {
     void circle(double n);
     void square(double n);
