@@ -3,25 +3,41 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=, initial-scale=1.0">
+    <link rel="stylesheet" href="chatgpt.css">
     <title>Document</title>
 </head>
 <body>
-    <form method="get">
-         <label for="">First Name</label>
-         <input type="text" name="name" id="" ><br>
-         <label for="">Last Name</label>
-         <input type="text" name="Email" id=""><br>
-         <label for="">Gender</label>
-         <input type="radio" name="" id="">Male
-         <input type="radio" name="" id="">Male
-         <input type="radio" name="" id="">Male<br>
-         <label for="">Subject</label>
-         <input type="checkbox" name="" id="">C
-         <input type="checkbox" name="" id="">JAVA
-         <input type="checkbox" name="" id="">PHP<br>
-         <label for="">Comment</label>
-         <input type="text"><br>
-         <input title="click here"type="submit" name="" id="">
-    </form>
+    <div class="Form">
+        <div class="internal">
+            <form method="get">
+                <label for="">First Name</label>
+                    <input type="text" name="name" id="" ><br>
+                <label for="">Last Name</label>
+                    <input type="text" name="Email" id=""><br>
+                <label for="">Gender</label>
+                    <input type="radio" name="" id="">Male
+                    <input type="radio" name="" id="">Female
+                    <input type="radio" name="" id="">Other<br>
+                <label for="">Subject</label>
+                    <input type="checkbox" name="" id="">C
+                    <input type="checkbox" name="" id="">JAVA
+                    <input type="checkbox" name="" id="">PHP<br>
+                <label for="">Hobby</label>
+                    <select name="Hobby" id="">
+                        <option value="">Music</option>
+                        <option value="">Literature</option>
+                        <option value="">Sports</option>
+                        <option value="">Movies</option>
+                        <option value="">Dancing</option>
+                        <option value="">Singinf</option>
+                    </select><br>   
+                <label for="">Comment</label>
+                    <input type="textarea"><br>
+                    <div class="button">                   
+                        <input title="click here"type="submit" name="" id="submit">
+                    </div>
+            </form>
+        </div>
+    </div>
 </body>
 </html>

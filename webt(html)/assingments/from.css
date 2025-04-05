@@ -1,0 +1,22 @@
+body{
+    width: 100dvw;
+    height: 100dvh;
+    background-color: rgb(153, 153, 175);
+    font-size: 1.2em;
+}
+.Form{
+    width: 100dvw;
+    height:100dvh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.internal{
+    width: 300px;
+    height:60dvh;
+    background-color: bisque;
+    padding: 30px;
+}
+.button{
+    align-items: flex-end;
+}

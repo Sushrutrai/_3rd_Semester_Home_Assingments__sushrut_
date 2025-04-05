@@ -10,7 +10,7 @@
 
 }
 .image{
-    background-image: url("D:/3rdsem(sushrut)/webt(html)/images/1CF515DE-3201-43F1-A46B-B23D8184C5B4.jpg");
+    background-image: url("C:/Users/Victus/OneDrive/Documents/GitHub/3rd_Semester_Home_Assingments__sushrut_/webt(html)/images/1CF515DE-3201-43F1-A46B-B23D8184C5B4.jpg");
     width: 17vw;
     height: 30vh;
     background-size: cover;
@@ -34,12 +34,11 @@ h2{
 .contact  {
     list-style: none;
     padding: 0px;
-   
 }
 body {
    width: 100vw;
    margin: 0px;
    padding: 0px;
-   background-image: url("D:/3rdsem(sushrut)/webt(html)/images/background.png   ");
+   background-image: url("C:/Users/Victus/OneDrive/Documents/GitHub/3rd_Semester_Home_Assingments__sushrut_/webt(html)/images/background.png ");
    font-size: 1.22em;
 }
