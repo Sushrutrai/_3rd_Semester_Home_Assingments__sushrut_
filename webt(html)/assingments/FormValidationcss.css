@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(247, 239, 239);
+    height: 100dvh;
+    width: 100dvw;
+    color: rgb(0, 0, 0);
+    font-family: 'Lucida Sans Regular';
+    display: flex;
+    font-size: 1.2em;
+}
+form{
+
+    display: flex;
+    flex-direction: column;
+}
+.main{
+    width: auto;
+    height: 50dvh;
+    border: 1px solid black;
+    padding: 50px;
+   
+}
+.whole{
+    height:100dvh;
+    width: 100dvw;
+    justify-content: center;
+    align-items: center;
+    display:flex;
+}
+input{
+    margin: 10px;
+}

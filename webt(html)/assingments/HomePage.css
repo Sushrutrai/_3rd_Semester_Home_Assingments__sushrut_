@@ -1,17 +1,22 @@
 .main_container,html,body{
-    width: 100vw;
-    height: 100vh;
+    width: 100dvw;
+    height: 100dvh;
     padding: 0px;
     margin:0px;
+    font-family: sans-serif;
+    font-size: 1.1em;
+}
+body{
+    background-color:rgb(225, 225, 231);
 }
 .internal_container{
     padding-top: 10px;
 }
 .header{
-    width: 100vw;
-    height: 10vh;
+    width: 100dvw;
+    height: 10dvh;
     display: flex;
-    background-color:blue;
+    background-color:rgb(225, 225, 231);
     font-size:x-large;
 }
 .menu ul{
@@ -26,30 +31,53 @@
 }
 .menu{
     padding: 5px 0px;
-    width:100vw;
-    height: 5vh;
-    background-color: grey;
+    width:100dvw;
+    height: 5dvh;
+    background-color: rgb(209, 207, 207);
 }
 .vertical{
     float: left;
-    width: 15vw;
-    height:80vh;
-    background-color:blue;
+    width: 14dvw;
+    height:80dvh;
+    padding: 0px 9px;
+    background-color:rgb(225, 225, 231);
 }
 .main{
     float: right;
-    width: 85vw;
-    height: 80vh;
-    padding: 0px;
+    width: 84dvw;
+    height: 80dvh;
+    padding: 0px 10px;
     margin: 0px;
+    background-image: url("C:/Users/Victus/OneDrive/Documents/GitHub/3rd_Semester_Home_Assingments__sushrut_/webt(html)/images/samba.jpg");   
+    background-size: contain;
 }
-.main img {
-    height:30vh;
-    width: 85vw;
-}
+
 .frm{
     float: right;
+    padding: 50px;
+    margin: 10px;
+    background-color: white;
+    border: 2px black solid;
+}
+.tbl{
+    float: left;
+    padding: 10px;
+    margin: 10px;
+    border: 2px black solid;
+    background-color: white;
+
 }
 footer{
     text-align: center;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    height: auto;
+}
+.text{
+    background-color: white;
+    border: 2px black double;
+}
+.header h1{
+    padding: 0px 50px;
 }

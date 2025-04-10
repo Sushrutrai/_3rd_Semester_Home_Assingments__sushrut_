@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="FormValidationcss.css">
+    <title>Validating form</title>
+</head>
+<body><div class="whole">
+    <div class="main">
+    <form name="myform" onsubmit="return(validate());">
+    <label for="">Name</label>
+    <input type="text" name="Name">
+    <label for="">Email</label>
+    <input type="text" name="Email">
+    <label for="">Password</label>
+    <input type="password" name ="Password">
+    <input type="submit" name="Submit">
+    </form>
+    </div>
+    </div>
+</body>
+<script type="text/javascript">
+    function validate(){
+        var name=document.myform.Name.value;
+        if(name==" "){
+            alert("please provide a name!!");
+            document.myform.Name.focus();
+            return false;
+        }
+        var email=document.myform.Email.value;
+        if(email==""){
+            alert("please enter an email");
+            document.myform.Email.focus();
+            return false;
+        }
+        var password=document.myform.Password.value;
+        if(password==""){
+            alert("please enter a password");
+            document.myform.Password.focus();
+            return false;
+        }
+    }
+</script>
+</html>
