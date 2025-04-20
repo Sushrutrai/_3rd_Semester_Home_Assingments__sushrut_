@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+<Staff>
+    <name>Ramesh</name>
+    <salary>Rs.20000</salary>
+    <address>
+        <city>Kathmandu</city>
+        <zip>004500</zip>
+    </address>
+    <phone>9845123355</phone>
+</Staff>
