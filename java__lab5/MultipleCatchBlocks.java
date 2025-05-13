@@ -3,10 +3,11 @@ package java__lab5;
 
 public class MultipleCatchBlocks {
     public static void main(String []args){
-        try {
+        try {  
+            int n=10/0;   
+            System.out.println(n);
             int arr[]=new int[2];
-            arr[10]=10/2;
-            int n=10/0;       
+            arr[10]=10;    
         } catch (ArithmeticException e) {
            System.out.println(e);
         }catch(ArrayIndexOutOfBoundsException ae){

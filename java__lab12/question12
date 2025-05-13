@@ -1,0 +1,14 @@
+Lab 12
+1.	Write a swing program that takes two inputs from the user in the textfield and display the addition of the numbers in the label on the button click.
+2.	Write a swing program to demonstrate BorderLayout and use of JPanel that consists of JCheckBox with its event handling.
+3.	Write a swing program to demonstrate GridLayout.
+4.	Write a swing program to demonstrate JRadioButton and its event handling.
+5.	Write a swing program to demonstrate JComboBox and its event handling.
+6. 	Write a swing program to demonstrate JList and its event handling.
+7.	Write a swing program to handle key event using KeyListener.
+8.	Write a swing program to handle mouse event using MouseListener.
+9.	Write a swing program to handle key event using KeyAdapter.
+10.	Write a swing program to handle mouse event using MouseAdapter.
+11.	Write a swing program to demonstrate menus and various dialog boxes.
+12. 	Write a swing program to demonstrate JTable for displaying data in tabular format.
+13.	Write a swing program to demonstrate MDI using JDesktopPane and JInternal Frame.

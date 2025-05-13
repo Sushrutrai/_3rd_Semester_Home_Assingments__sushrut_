@@ -1,9 +1,9 @@
 Lab 6
-1.	Write a program to demonstrate few methods of String such as length(), compareTo(), compareToIgnoreCase(), equals(), equalsIgnoreCase(), concat(), trim(), isEmpty(), toLowerCase(), and toUpperCase().
-2.	Write a program to get the character at the given index within the string.
-3.	Write a program to get the contents of a given string as a byte array.
-4.	Write a program to get more than one characters using getChars() from a string.
-5.	Write a program to convert string to character array.
-6.	Write a program to demonstrate the use of indexOf().
-7.	Write a program to demonstrate methods length(), capacity(), append(), insert(), reverse(), delete(), deleteCharAt(), and replace() of StringBuffer.
-8.	Write a program to find if the given string is palindrome or not.
+//  1.	Write a program to demonstrate few methods of String such as length(), compareTo(), compareToIgnoreCase(), equals(), equalsIgnoreCase(), concat(), trim(), isEmpty(), toLowerCase(), and toUpperCase().
+//  2.	Write a program to get the character at the given index within the string.
+//  3.	Write a program to get the contents of a given string as a byte array.
+//  4.	Write a program to get more than one characters using getChars() from a string.
+//  5.	Write a program to convert string to character array.
+//  6.	Write a program to demonstrate the use of indexOf().
+//  7.	Write a program to demonstrate methods length(), capacity(), append(), insert(), reverse(), delete(), deleteCharAt(), and replace() of StringBuffer.
+//  8.	Write a program to find if the given string is palindrome or not.

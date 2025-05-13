@@ -2,8 +2,8 @@ Lab 5
 //  1.	Write a program to catch ArrayIndexOutOfBoundsException.
 //  2.	Write a program to demonstrate multiple catch blocks.
 //  3.	Write a program to handle Checked Exception.
-4.	Write a program that throws ArithmeticException and handle it using try-catch block.
+//  4.	Write a program that throws ArithmeticException and handle it using try-catch block.
 //  5.	Write a program to demonstrate throws keyword.
-6.	Write a program to demonstrate finally block.
-7.	Write a program to demonstrate nested try-catch block.
+//  6.	Write a program to demonstrate finally block.
+//  7.	Write a program to demonstrate nested try-catch block.
 //  8.	Create your own exception called InvalidAgeException. Write a program that throws InvalidAgeException when the provided age is below 0 or above 150. 
