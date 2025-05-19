@@ -10,5 +10,5 @@ Lab 12
 9.	Write a swing program to handle key event using KeyAdapter.
 10.	Write a swing program to handle mouse event using MouseAdapter.
 11.	Write a swing program to demonstrate menus and various dialog boxes.
-12. 	Write a swing program to demonstrate JTable for displaying data in tabular format.
+12. Write a swing program to demonstrate JTable for displaying data in tabular format.
 13.	Write a swing program to demonstrate MDI using JDesktopPane and JInternal Frame.
