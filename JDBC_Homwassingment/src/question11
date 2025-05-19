@@ -1,5 +1,0 @@
-Lab 11
-//  1. Write a JDBC program to insert 2 records into a table named student with fields id, name, and address then display the records using ResultSet.
-//  2. Write a JDBC program to update the address of the student whose id is 2.
-//  3. Write a JDBC program to delete the record of the student who lives in Kathmandu. 
-//  4. Write a JDBC program to insert a record into a table named student using PreparedStatement.
