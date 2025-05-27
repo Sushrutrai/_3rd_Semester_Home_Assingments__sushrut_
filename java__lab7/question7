@@ -4,4 +4,4 @@ Lab 7
 //  3.	Write a program to set and get priorities of threads.
 //  4.	Write a program to demonstrate the concept of synchronization.
 5.	Write a program to demonstrate inter-thread communication.
-6.	Write a program to demonstrate deadlock using two threads.
+//  6.	Write a program to demonstrate deadlock using two threads.

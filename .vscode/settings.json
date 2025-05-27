@@ -1,8 +1,7 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
-        "JDBC_Homwassingment\\src",
-        "JDBC_Homwassingment\\lib"
+        "."
     ],
     "java.project.referencedLibraries": []
 }
