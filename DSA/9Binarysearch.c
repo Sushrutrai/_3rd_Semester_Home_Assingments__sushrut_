@@ -16,8 +16,6 @@ int Binarysearch(int a[MAX],int left,int right,int key){
     else
     return -1;
 }
-
-
 int main(){
     int num;
     int arr[MAX];

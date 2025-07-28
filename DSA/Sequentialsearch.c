@@ -1,4 +1,4 @@
-#include<stdio.h>
+ #include<stdio.h>
 int main(){
     int a[100],n,key,i;
     printf("Enter number of elements:\n");

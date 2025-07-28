@@ -7,5 +7,5 @@ int fact(int n){
 }
 int main(){
     printf("Factorial is %d ",fact(1));
-
+    
 }
