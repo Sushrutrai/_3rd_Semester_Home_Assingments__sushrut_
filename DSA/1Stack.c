@@ -38,7 +38,7 @@
     
         printf("what do you want to do:\n1.PUSH\n2.POP\n3.Display\n4.Exit\n");
         while (1){
-            printf("Enter chocie");
+            printf("Enter chocie: ");
             scanf("%d",&choice);
         switch (choice)
             {
@@ -55,6 +55,7 @@
                 break;
             
             case 4:
+                printf("You have exited.");
                 exit(0);
             }
     }

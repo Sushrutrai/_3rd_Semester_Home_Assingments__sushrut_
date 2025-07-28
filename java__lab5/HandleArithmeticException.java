@@ -7,6 +7,7 @@ public class HandleArithmeticException {
         System.out.println(res);
         }catch(ArithmeticException ae){
             System.out.println(ae);
+            ae.printStackTrace();
         }
     }
 }
