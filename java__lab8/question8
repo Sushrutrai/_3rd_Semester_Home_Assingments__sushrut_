@@ -1,6 +1,0 @@
-Lab 8
-//  1.	Write a program to demonstrate various methods of File class.
-2.	Write a program to write data in the file using FileOutputStream.
-3.	Write a program to read data from the file using FileInputStream.
-4.	Write a program to copy data from one file to another using FileReader and FileWriter.
-5.	Write a program to demonstrate serialization and deserialization.

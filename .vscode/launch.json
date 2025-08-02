@@ -1,6 +1,216 @@
 {
     "configurations": [
         {
+            "type": "java",
+            "name": "MDIDemo",
+            "request": "launch",
+            "mainClass": "java__lab12.MDIDemo",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "GridLayoutDemo",
+            "request": "launch",
+            "mainClass": "java__lab12.GridLayoutDemo",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "Swing1",
+            "request": "launch",
+            "mainClass": "java__lab12.Swing1",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "TreeSetDemo",
+            "request": "launch",
+            "mainClass": "java__lab10.TreeSetDemo",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "HashsetDemo",
+            "request": "launch",
+            "mainClass": "java__lab10.HashsetDemo",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListDemo",
+            "request": "launch",
+            "mainClass": "java__lab10.LinkedListDemo",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListDemo",
+            "request": "launch",
+            "mainClass": "java__lab10.ArrayListDemo",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "MapDemo",
+            "request": "launch",
+            "mainClass": "java__lab10.MapDemo",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "StackDemo",
+            "request": "launch",
+            "mainClass": "java__lab9.StackDemo",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "VectorDemo",
+            "request": "launch",
+            "mainClass": "java__lab9.VectorDemo",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "MathDemo",
+            "request": "launch",
+            "mainClass": "java__lab9.MathDemo",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "WrapperClassDemo",
+            "request": "launch",
+            "mainClass": "java__lab9.WrapperClassDemo",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "BoxingDemo",
+            "request": "launch",
+            "mainClass": "java__lab9.BoxingDemo",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "Priorities",
+            "request": "launch",
+            "mainClass": "java__lab7.Priorities",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "Odd",
+            "request": "launch",
+            "mainClass": "java__lab7.Odd",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "Even",
+            "request": "launch",
+            "mainClass": "java__lab7.Even",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "RetrieveChars",
+            "request": "launch",
+            "mainClass": "java__lab6.RetrieveChars",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "DemoStrMethods",
+            "request": "launch",
+            "mainClass": "java__lab6.DemoStrMethods",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "GetFromString",
+            "request": "launch",
+            "mainClass": "java__lab6.GetFromString",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "DemoStringBufferMethods",
+            "request": "launch",
+            "mainClass": "java__lab6.DemoStringBufferMethods",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "DemoIndexOf",
+            "request": "launch",
+            "mainClass": "java__lab6.DemoIndexOf",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "CheckPalindrome",
+            "request": "launch",
+            "mainClass": "java__lab6.CheckPalindrome",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "AsByteArray",
+            "request": "launch",
+            "mainClass": "java__lab6.AsByteArray",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "ThrowsDemo",
+            "request": "launch",
+            "mainClass": "java__lab5.ThrowsDemo",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "ThrowingCustomException",
+            "request": "launch",
+            "mainClass": "java__lab5.ThrowingCustomException",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "NestedTryCatch",
+            "request": "launch",
+            "mainClass": "java__lab5.NestedTryCatch",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "MultipleCatchBlocks",
+            "request": "launch",
+            "mainClass": "java__lab5.MultipleCatchBlocks",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "HandleArithmeticException",
+            "request": "launch",
+            "mainClass": "java__lab5.HandleArithmeticException",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "FinallyDemo",
+            "request": "launch",
+            "mainClass": "java__lab5.FinallyDemo",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
+            "type": "java",
+            "name": "ArrayBounds",
+            "request": "launch",
+            "mainClass": "java__lab5.ArrayBounds",
+            "projectName": "3rd_Semester_Home_Assingments__sushrut__16a57cce"
+        },
+        {
             "name": "C/C++: gcc.exe build and debug active file",
             "type": "cppdbg",
             "request": "launch",
